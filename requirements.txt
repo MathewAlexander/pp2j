@@ -1,0 +1,13 @@
+
+pdfminer.six==20181108
+chardet==3.0.4
+beautifulsoup4==4.8.0
+nltk==3.4.4
+Cython==0.29.13
+numpy==1.17.0
+lxml
+sklearn==0.0
+sklearn-crfsuite==0.3.6
+Wand==0.5.7
+html5lib==0.9999999
+
