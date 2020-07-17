@@ -1,8 +1,8 @@
 
 FROM ubuntu:16.04
 
-MAINTAINER Mathew Alexander "mathew.alexander@chubb.com"
-LABEL cover-box APIs 
+MAINTAINER Mathew Alexander 
+LABEL 
 
 
 RUN  apt-get update \
@@ -38,7 +38,7 @@ RUN export JAVA_HOME
 
 
 
-WORKDIR /PLA
+WORKDIR /pp2j
 
 COPY . .  
 
